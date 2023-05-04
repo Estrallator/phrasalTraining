@@ -3,7 +3,6 @@ import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-import java.util.Scanner;
 public class mainClass {
 
     public static final String version ="0.1b";
